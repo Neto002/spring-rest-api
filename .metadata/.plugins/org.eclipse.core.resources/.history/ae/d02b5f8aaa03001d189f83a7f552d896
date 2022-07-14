@@ -1,0 +1,5 @@
+package com.neto.springrestapi.controller;
+
+public class ClienteController {
+
+}
