@@ -1,5 +1,0 @@
-package com.neto.springrestapi.repository;
-
-public interface ClienteRepository {
-
-}

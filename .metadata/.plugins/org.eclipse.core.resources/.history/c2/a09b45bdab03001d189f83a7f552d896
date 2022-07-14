@@ -1,5 +1,0 @@
-package com.neto.springrestapi.model;
-
-public class Cliente {
-
-}

@@ -1,8 +1,0 @@
-package com.neto.springrestapi.model;
-
-import javax.persistence.Entity;
-
-@Entity
-public class Cliente {
-
-}
